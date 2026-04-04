@@ -1,7 +1,7 @@
 # Some files that are commonly ignored in Python projects. See
 .python-version
 uv.lock
-
+pyproject.toml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
