@@ -16,3 +16,4 @@ langchain-openai
 nltk
 
 python-dotenv
+pyyaml
